@@ -1,4 +1,4 @@
-package com.javaguides.app.bank_application;
+package com.javaguides.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

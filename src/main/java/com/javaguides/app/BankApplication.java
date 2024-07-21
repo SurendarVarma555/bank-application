@@ -1,4 +1,4 @@
-package com.javaguides.app.bank_application;
+package com.javaguides.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
